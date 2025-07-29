@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mark Mando
 
-<!--
-**MarkMando/MarkMando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Software Engineer | Data Science Enthusiast | Agile Practitioner  
+💡 Passionate about building scalable applications and data-driven solutions.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** C#, Java, Kotlin, Python, SQL
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** .NET, SSIS, SSAS, Power BI, Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🔗 [Asset Registry System](#) – SQL-based asset tracking platform
+- 🔗 [Automated Stock-Take App](#) – Android app for inventory automation
+- 🔗 [Weighbridge Integration](#) – Integrated Cargo Weigh and Gallagher systems
+
+## 🧠 Currently Learning
+- Data Science and Big Data (MSc, Mulungushi University)
+- Advanced Machine Learning with Python
+
+## 📫 Contact
+- 📧 [markmando@hotmail.co.uk](mailto:markmando@hotmail.co.uk)
