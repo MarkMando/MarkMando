@@ -6,7 +6,7 @@
 ## 🔧 Tech Stack
 - **Languages:** C#, Java, Kotlin, Python, SQL
 - **Web:** HTML, CSS, JavaScript
-- **Tools:** .NET, SSIS, SSAS, Power BI, Azure DevOps
+- **Tools:** .NET, SSIS, SSAS, Power BI, Power Apps, Azure DevOps
 
 ## 📂 Featured Projects
 - 🔗 [Asset Registry System](#) – SQL-based asset tracking platform
